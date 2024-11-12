@@ -158,7 +158,6 @@ class DashboardView extends StatelessWidget {
                     activeIcon: selectIcon(AppIcons.home, color: getPrimaryColor),
                   ),
                   BottomNavigationBarItem(
-                    icon: selectIcon(AppIcons.wallet),
                     label: TranslationController.td.wallet,
                     activeIcon: selectIcon(AppIcons.wallet, color: getPrimaryColor),
                   ),
