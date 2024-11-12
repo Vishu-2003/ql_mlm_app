@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1050861697824",
+    "project_id": "qm-trading-app-48318",
+    "storage_bucket": "qm-trading-app-48318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050861697824:android:fecbf5532f19237863b545",
+        "android_client_info": {
+          "package_name": "com.nesscale.qmMlm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050861697824-r2ep328nd60cjmtkte99769innkk7b6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nesscale.qmMlm",
+            "certificate_hash": "944d733de3bb1218a300b229bcbf1a31891d9cad"
+          }
+        },
+        {
+          "client_id": "1050861697824-egvgsv4g1osmstkm1793bhvee492vh2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1siU5fp5w8q2mGq2mCA5rgfCitGs0vYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050861697824-egvgsv4g1osmstkm1793bhvee492vh2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050861697824-3k1bm3um4lj5hj5in99tb1vtctcfislo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nesscale.qmMlm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
