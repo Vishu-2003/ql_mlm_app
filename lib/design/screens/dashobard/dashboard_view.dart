@@ -163,7 +163,6 @@ class DashboardView extends StatelessWidget {
                   ),
                   BottomNavigationBarItem(
                     icon: selectIcon(AppIcons.history),
-                    label: TranslationController.td.history,
                     activeIcon: selectIcon(AppIcons.history, color: getPrimaryColor),
                   ),
                   BottomNavigationBarItem(
